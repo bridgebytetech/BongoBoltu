@@ -24,9 +24,8 @@ This app is created for entertainment and satire. It combines humor with mock bu
 
 Once deployed via GitHub Pages, the app will be accessible at:
 
-`https://your-username.github.io/bongobondhur-kosom/`
+'https://bridgebytetech.github.io/BongoBoltu/'
 
-(Replace with your actual GitHub username)
 
 ---
 
